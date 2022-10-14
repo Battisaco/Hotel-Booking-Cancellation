@@ -3,11 +3,10 @@
 Olá!
 
 
-Esse notebook apresenta os passos tomados para o projetos de dados em cima do dataset de Hotel booking.
+Esse notebook 
 -------------------------------------------------------------------------------
 
-
-Esse trabalho teve uma aproximação diferente para o problema, foi percebido que havia valor em separar o dataset em dois, e fazer um modelo para cada caso.
+Esse trabalho apresenta os passos tomados para o projetos de dados em cima do dataset de Hotel booking. É valido comentar que teve uma aproximação diferente para o problema, foi percebido que havia valor em separar o dataset em dois, e fazer um modelo para cada caso, diferente de muitas das vezes que só se utiliza os dados para um modelo unico.
 -------------------------------------------------------------------------------
  ------------------------------------------------------------------------------
 
