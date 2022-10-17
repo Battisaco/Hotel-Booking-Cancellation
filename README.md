@@ -2,15 +2,13 @@
 
 Olá!
 
-
-Esse notebook 
 -------------------------------------------------------------------------------
 
 Esse trabalho apresenta os passos tomados para o projetos de dados em cima do dataset de Hotel booking. É valido comentar que teve uma aproximação diferente para o problema, foi percebido que havia valor em separar o dataset em dois, e fazer um modelo para cada caso, diferente de muitas das vezes que só se utiliza os dados para um modelo unico.
 -------------------------------------------------------------------------------
  ------------------------------------------------------------------------------
 
-O objetivo não foi de encontrar os melhore resultados possiveis, por isso as etapas de cross-validation, foi cortada na parte de modelagem por demorar a rodar e não haver disponilização de uma GPU. Para tanto, os algoritmos testados foram montados com seus parametros default/
+O objetivo não foi de encontrar os melhores resultados possiveis, por isso as etapas de cross-validation, foi cortada na parte de modelagem por demorar a rodar e não haver disponilização de uma GPU. Para tanto, os algoritmos testados foram montados com seus parametros default/
 
 Nele você encontratará 
 
