@@ -8,6 +8,8 @@ Olá!
 
 Essa sessão é dedicada ao deploy dos modelos, eles se encontra nesse link do google drive:
 
+https://drive.google.com/drive/folders/1cCrP7rAaCAQm65gCv307b-bTOpFCFuP2?usp=sharing
+
 
 Ambos os modelos (Resort e city) foram salvos em pickle.
 
